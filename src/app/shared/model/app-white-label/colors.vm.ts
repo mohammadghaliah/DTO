@@ -11,5 +11,4 @@ export class Colors {
   hintsTextColor: string;
   breadcrumbTextColor: string;
   appWhiteLabelEnabled: boolean;
-  
 }
